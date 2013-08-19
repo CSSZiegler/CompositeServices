@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<compositeRoot>
+    <compcategory>
+        <application smscode="" name="" id="" desc="">
+            <app-config/>
+            <services>
+                <service smsenabled="false" smscode="" type="CompositeConnector" id="NewsComposite" cacheduration="" cachable="false">
+                    <service-config>
+                        <config-param value="Concurrent" name="exec_type"/>
+                        <config-param value="YahooFeeds" name="service"/>
+                        <config-param value="GoogleFeeds" name="service"/>
+                    </service-config>
+                    <service-input/>
+                    <service-output/>
+                </service>
+            </services>
+        </application>
+        <catname>composite</catname>
+    </compcategory>
+</compositeRoot>

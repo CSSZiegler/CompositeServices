@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<compositeRoot>
+    <compcategory>
+        <application smscode="" name="" id="" desc="">
+            <app-config/>
+            <services/>
+        </application>
+        <catname>composite</catname>
+    </compcategory>
+</compositeRoot>
