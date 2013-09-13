@@ -15,7 +15,7 @@ This Application will showcase Composite Service.
  * SPA iPhone
  
 **Tablet** 
- * Anroid
+ * Android
  * iPad
  * SPA iPad
  * SPA Android
