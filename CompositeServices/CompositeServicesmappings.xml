@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application name="CompositeServices" id="CompositeServices">
-    <container type="form" id="frmComposite" displayname="Form">
-        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
+<application id="CompositeServices" name="CompositeServices">
+    <container displayname="Form" id="frmHome" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
     </container>
-    <container type="form" id="frmGoogle" displayname="Form">
-        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
+    <container displayname="Form" id="frmGoogle" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
     </container>
-    <container type="form" id="frmHome" displayname="Form">
-        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
+    <container displayname="Form" id="frmYahoo" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
     </container>
-    <container type="form" id="frmYahoo" displayname="Form">
-        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
+    <container displayname="Form" id="frmComposite" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
     </container>
-    <container type="form" id="frmComposite" displayname="Form"/>
-    <container type="form" id="frmGoogle" displayname="Form"/>
-    <container type="form" id="frmHome" displayname="Form"/>
-    <container type="form" id="frmYahoo" displayname="Form"/>
-    <container type="form" id="frmComposite" displayname="Form"/>
-    <container type="form" id="frmGoogle" displayname="Form"/>
-    <container type="form" id="frmHome" displayname="Form"/>
-    <container type="form" id="frmYahoo" displayname="Form"/>
+    <container displayname="Form" id="frmGoogle" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmHome" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmYahoo" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmComposite" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmComposite" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmGoogle" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmHome" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
+    <container displayname="Form" id="frmYahoo" type="form">
+        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    </container>
     <globalsequences/>
     <skins/>
 </application>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application smscode="" name="" id="CompositeService" desc="">
+<application desc="" id="CompositeService" name="" smscode="">
     <app-config/>
     <services>
-        <service smsenabled="false" smscode="" type="CompositeConnector" id="NewsComposite" groupType="" cacheduration="" cachable="false" serviceGroup="">
+        <service serviceGroup="" cachable="false" cacheduration="" groupType="" id="NewsComposite" type="CompositeConnector" smscode="" smsenabled="false">
             <service-config>
-                <config-param value="Concurrent" name="exec_type"/>
-                <config-param value="YahooFeeds" name="service"/>
-                <config-param value="GoogleFeeds" name="service"/>
-                <config-param value="" name="postprocessorname"/>
+                <config-param name="exec_type" value="Concurrent"/>
+                <config-param name="service" value="YahooFeeds"/>
+                <config-param name="service" value="GoogleFeeds"/>
+                <config-param name="postprocessorname" value=""/>
             </service-config>
             <service-input/>
             <service-output/>
