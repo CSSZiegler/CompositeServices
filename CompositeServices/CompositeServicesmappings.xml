@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application id="CompositeServices" name="CompositeServices">
-    <container displayname="Form" id="frmHome" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+<application name="CompositeServices" id="CompositeServices">
+    <container type="form" id="frmComposite" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmGoogle" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmGoogle" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmYahoo" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmHome" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmComposite" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmYahoo" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmGoogle" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmComposite" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmHome" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmGoogle" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmYahoo" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmHome" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmComposite" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmYahoo" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmComposite" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmComposite" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmGoogle" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmGoogle" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmHome" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmHome" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
-    <container displayname="Form" id="frmYahoo" type="form">
-        <attributes datatype="boolean" name="oldproject" platform="general" value="true"/>
+    <container type="form" id="frmYahoo" displayname="Form">
+        <attributes value="true" platform="general" name="oldproject" datatype="boolean"/>
     </container>
     <globalsequences/>
     <skins/>
